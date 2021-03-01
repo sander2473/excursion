@@ -12,3 +12,23 @@ a {
     color: aquamarine;
     font-size: 1rem;
 }
+
+h1 {
+    font-size: 3.125rem;
+}
+
+h2 {
+    font-size: 2.375rem;
+    font-weight: 300;
+}
+
+.subhed {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    font-size: 21px;
+    text-align: right;
+    color: gray;
+}
